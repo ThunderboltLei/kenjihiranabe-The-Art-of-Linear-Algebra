@@ -36,3 +36,10 @@ Also includes other graphics.
 ![Matrix World](MatrixWorld.png)
 
 - Available in PDF "[MatrixWorld](MatrixWorld.pdf)"
+
+## The 📕Book
+Japanese book of this paper pulibshed. 
+https://anagileway.com/visual-linear-algebra/
+
+![book image](https://i0.wp.com/anagileway.com/wp-content/uploads/2026/04/1B57F351-CC8C-40BE-9A75-9569E0CF0EE5.png?w=1197&ssl=1)
+
